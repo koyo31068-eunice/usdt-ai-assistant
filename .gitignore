@@ -13,6 +13,7 @@ backend/secrets/
 
 # 프론트 배포 시 자동 생성되는 파일
 frontend/config.js
+frontend/dist/
 
 # 에디터 / OS
 .vscode/
